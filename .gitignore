@@ -33,3 +33,7 @@ yarn-debug.log*
 .yarn-integrity
 
 .env
+
+Gemfile_original.lock
+Gemfile2.lock
+.ruby-version
